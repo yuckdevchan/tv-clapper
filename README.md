@@ -1,7 +1,7 @@
 # tv-clapper
 For switching HDMI input on a Sony Bravia TV by clapping👏
 
-This project contains MIT and GPL code.
+This project contains both MIT and GPL code.
 
 ## Authors
 - [yuckdevchan](https://github.com/yuckdevchan)
